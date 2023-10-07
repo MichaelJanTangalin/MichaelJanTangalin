@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/8351156.gif?width=1025&height=267)](https://rishavchanda.io)
+[![MasterHead](https://wallpaperaccess.com/full/8351156.gif?width=1025&height=200)](https://rishavchanda.io)
 <h1 align="center">Michael Jan R. Tangalin</h1>
 
 <p align="center">
