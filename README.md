@@ -33,9 +33,9 @@
 
 <p align ="left">
     <b>Cognitive Class</b>
-<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>Big Data 101</a> <br>
-    September 20, 2023
+&emsp;<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>Big Data 101</a> <br>
+&emsp;September 20, 2023
 <a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>SQL and Relational Databases 101</a> <br>
-    September 20, 2023 
+&emsp;September 20, 2023 
 </p>
 
