@@ -31,7 +31,7 @@
 
 <h1 align="left">Certifications & Competency Development</h1>
 <p align ="left">
-<small style="font-size: 100px;">Cognitive Class</text>
+Cognitive Class<br>
 <a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>SQL and Relational Databases 101</a> <br>
 September 20, 2023 </center></p>
 
