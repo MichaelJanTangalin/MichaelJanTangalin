@@ -16,7 +16,7 @@
 
 
 <h3 align="center">
-    A dependable IT Specialist at New Era University, Quezon City, Philippines 
+   Aspiring IT Student at New Era University, Quezon City, Philippines 
 </h3>
 
 <br>
