@@ -31,8 +31,6 @@
 
 <h1 align="left">Certifications & Competency Development</h1>
 
-
-<h3>Cognitive Class</h3>
 <p align ="left">
 &emsp;<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>Big Data 101</a> <br>
 &emsp;<b>Cognitive Class</b><br>
@@ -48,8 +46,6 @@
 &emsp;September 20, 2023 <br>
 </p>
 
-<h3>Data Camp</h3>
-
 <p align ="left">
 &emsp;<a href="https://www.datacamp.com/statement-of-accomplishment/course/2791d74b5eadfcd3c0b5a03999fdc10bfef9061a"><br>Intermediate SQL Queries</a> <br>
 &emsp;<b>DataCamp</b><br>
@@ -61,9 +57,6 @@
 &emsp;April 18, 2022<br>
 
 </p>
-
-
-<h3>Oracle University</h3>
 
 <p align ="left">
 &emsp;<a href="https://drive.google.com/file/d/1g9iNFkG7KHYxiQHPWAyf_gQWmyH56g2B/view?usp=sharing"><br>Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a> <br>
