@@ -32,6 +32,7 @@
 <h1 align="left">Certifications & Competency Development</h1>
 
 
+<h2>Cognitive Class</h2>
 <p align ="left">
 &emsp;<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>Big Data 101</a> <br>
 &emsp;<b>Cognitive Class</b><br>
@@ -47,7 +48,7 @@
 &emsp;September 20, 2023 <br>
 </p>
 
-//DATA CAMP
+<h2>Data Camp</h2>
 
 <p align ="left">
 &emsp;<a href="https://www.datacamp.com/statement-of-accomplishment/course/2791d74b5eadfcd3c0b5a03999fdc10bfef9061a"><br>Intermediate SQL Queries</a> <br>
@@ -60,4 +61,27 @@
 &emsp;April 18, 2022<br>
 
 </p>
+
+
+<h2>Oracle University</h2>
+
+<p align ="left">
+&emsp;<a href="https://drive.google.com/file/d/1g9iNFkG7KHYxiQHPWAyf_gQWmyH56g2B/view?usp=sharing"><br>Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a> <br>
+&emsp;<b>Oracle University</b><br>
+&emsp;December 18, 2021<br>
+    
+<a href="https://drive.google.com/file/d/1Tx5c5v93v-mwD2WPQ8eRr3Y1Tm9cVoPg/view?usp=drive_link"><br>Oracle Autonomous Database Cloud 2021 Certified Specialist
+</a><br>
+&emsp;<b>Oracle University</b><br>
+&emsp;November 26, 2021<br>
+
+<a href="https://drive.google.com/file/d/1CQkyYORgkCQ9cbO8hUn64N4LrD32ysqy/view?usp=drive_link"><br>Oracle Cloud Database Migration and Integration 2021 Certified Specialist</a> <br>
+&emsp;<b>Oracle University</b><br>
+&emsp;January 06, 2022<br>
+
+<a href="https://drive.google.com/file/d/1bIs91ApFo0d54jjkuKClBDYDPlh7OulQ/view?usp=drive_link"><br>Oracle Cloud Database Services 2021 Certified Specialist</a> <br>
+&emsp;<b>Oracle University</b><br>
+&emsp;December 29, 2021<br>
+</p>
+
 
