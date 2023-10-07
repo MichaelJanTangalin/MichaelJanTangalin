@@ -28,8 +28,9 @@
 <p align="left">Bachelor of Science Computer Science | New Era University <br>
 2020 - Present <br><br></p>
 
-<h1 align="left">Certifications</h1>
+<h1 align="left">Certifications & Competency Development</h1>
 <p align ="left">
+<h4>Cognitive Class</h4>
 <a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>SQL and Relational Databases 101</a> <br>
-                   Cognitive Class <br>
-                   November 2, 2022 </center></p>
+                   September 20, 2023 </center></p>
+
