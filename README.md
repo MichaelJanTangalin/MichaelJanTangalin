@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQG8GlYh-Sc-4g/profile-displaybackgroundimage-shrink_200_800/0/1685327266262?e=2147483647&v=beta&t=A7FnLNmev8EYJvD9DlVMqGmazJHXQHfxI_Uz00odr-Q?width=1025&height=200)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQG8GlYh-Sc-4g/profile-displaybackgroundimage-shrink_200_800/0/1685327266262?e=2147483647&v=beta&t=A7FnLNmev8EYJvD9DlVMqGmazJHXQHfxI_Uz00odr-Q)](https://rishavchanda.io)
 <h1 align="center">Michael Jan R. Tangalin</h1>
 
 <p align="center">
