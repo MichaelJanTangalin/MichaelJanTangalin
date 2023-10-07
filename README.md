@@ -44,9 +44,7 @@
 <a href="https://courses.cognitiveclass.ai/certificates/c9294117bd0f4d398e5129739672a1d3"><br>SQL and Relational Databases 101</a> <br>
 &emsp;<b>Cognitive Class</b><br>
 &emsp;September 20, 2023
-</p>
 
-<p align ="left">
 &emsp;<a href="https://www.datacamp.com/statement-of-accomplishment/course/2791d74b5eadfcd3c0b5a03999fdc10bfef9061a"><br>Intermediate SQL Queries</a> <br>
 &emsp;<b>DataCamp</b><br>
 &emsp;June 05, 2022<br>
@@ -56,9 +54,6 @@
 &emsp;<b>DataCamp</b><br>
 &emsp;April 18, 2022
 
-</p>
-
-<p align ="left">
 &emsp;<a href="https://drive.google.com/file/d/1g9iNFkG7KHYxiQHPWAyf_gQWmyH56g2B/view?usp=sharing"><br>Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a> <br>
 &emsp;<b>Oracle University</b><br>
 &emsp;December 18, 2021
@@ -75,6 +70,14 @@
 <a href="https://drive.google.com/file/d/1bIs91ApFo0d54jjkuKClBDYDPlh7OulQ/view?usp=drive_link"><br>Oracle Cloud Database Services 2021 Certified Specialist</a> <br>
 &emsp;<b>Oracle University</b><br>
 &emsp;December 29, 2021
+</p>
+
+<p align ="left">
+
+</p>
+
+<p align ="left">
+
 </p>
 
 
