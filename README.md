@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQG8GlYh-Sc-4g/profile-displaybackgroundimage-shrink_350_1400/0/1685327266262?e=1701907200&v=beta&t=3aSVMUkWHsAPdclHDXGqKNt2986m8GKOqvx2z95Eg1I?width=1025&height=200)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg?width=1025&height=200)](https://rishavchanda.io)
 <h1 align="center">Michael Jan R. Tangalin</h1>
 
 <p align="center">
