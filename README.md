@@ -32,7 +32,7 @@
 <h1 align="left">Certifications & Competency Development</h1>
 
 <p align ="left">
-    <b>Cognitive Class</b>
+    <b style="font-size: 50px;">Cognitive Class</b>
 &emsp;<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>Big Data 101</a> <br>
 &emsp;September 20, 2023
 <a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>SQL and Relational Databases 101</a> <br>
