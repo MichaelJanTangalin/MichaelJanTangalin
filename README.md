@@ -51,7 +51,7 @@
 <table>
   <tr>
     <th>Course</th>
-    <th>Provider</th>
+    <th>Institution</th>
     <th>Date</th>
   </tr>
   <tr>
