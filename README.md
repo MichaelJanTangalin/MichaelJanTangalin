@@ -25,15 +25,16 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; height: 100vh;">
     <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" />
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" />
     </div>
     <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" />
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" />
     </div>
     <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin&" alt="michaeljantangalin" />
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin&" alt="michaeljantangalin" />
     </div>
 </div>
+
 
 
 
