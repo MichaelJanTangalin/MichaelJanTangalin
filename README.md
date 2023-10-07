@@ -27,11 +27,11 @@
 <h1 align="left">Education</h1>
 <p align="left">New Era University <br>
     Bachelor of Science in Information Technology <br>
-2020 - Present <br><br></p>
+2020 - Present <br></p>
 
 <h1 align="left">Certifications & Competency Development</h1>
 <p align ="left">
-Cognitive Class
+<text style="font-size: 24px;">Cognitive Class</text>
 <a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>SQL and Relational Databases 101</a> <br>
-                   September 20, 2023 </center></p>
+September 20, 2023 </center></p>
 
