@@ -31,6 +31,7 @@
 
 <h1 align="left">Certifications & Competency Development</h1>
 
+
 <p align ="left">
 &emsp;<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>Big Data 101</a> <br>
 &emsp;<b>Cognitive Class</b><br>
@@ -41,8 +42,22 @@
 &emsp;<b>Cognitive Class</b><br>
 &emsp;September 29, 2023<br>
 
-<a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145"><br>SQL and Relational Databases 101</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/c9294117bd0f4d398e5129739672a1d3"><br>SQL and Relational Databases 101</a> <br>
 &emsp;<b>Cognitive Class</b><br>
 &emsp;September 20, 2023 <br>
+</p>
+
+//DATA CAMP
+
+<p align ="left">
+&emsp;<a href="https://www.datacamp.com/statement-of-accomplishment/course/2791d74b5eadfcd3c0b5a03999fdc10bfef9061a"><br>Intermediate SQL Queries</a> <br>
+&emsp;<b>DataCamp</b><br>
+&emsp;June 05, 2022<br>
+    
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/7f0acf09d6b3ed165bbdc0357e6baa33318bd2da"><br>Understanding Data Engineering
+</a><br>
+&emsp;<b>DataCamp</b><br>
+&emsp;April 18, 2022<br>
+
 </p>
 
