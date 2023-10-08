@@ -24,11 +24,13 @@
 
 <!-- Row 1 -->
 <div align="center">
+    <div>
   <img style="width:400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        </div>
+     <div>
     <img style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+         </div>
 </div>
-
-<!-- Row 3 -->
 <div align="center">
   <img style="width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
 </div>
