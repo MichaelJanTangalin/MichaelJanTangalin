@@ -22,19 +22,20 @@
 <br>
 
 
-<!-- Row 1 -->
 <div align="center">
     <table>
         <tr>
-            <td style="width: 50%;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+            <td style="width: 50%; text-align: center;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
             </td>
-            <td style="width: 50%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+            <td style="width: 50%; text-align: center;">
+                <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
             </td>
         </tr>
     </table>
 </div>
+
+
 
 <div align="center">
   <img style="width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
