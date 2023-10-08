@@ -22,20 +22,20 @@
 <br>
 
 
-
-<div style="display: center; flex-wrap: wrap; justify-content: center; align-items: center; height: 100vh;">
-    <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img style="display: block; margin: 0 auto; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" />
-    </div>
-    <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img style="display: block; margin: 0 auto; width:400px" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" />
-    </div>
-    <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img style="display: block; margin: 0 auto; width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin&" alt="michaeljantangalin" />
-    </div>
+<!-- Row 1 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
+<!-- Row 2 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
+<!-- Row 3 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
+</div>
 
 
 
