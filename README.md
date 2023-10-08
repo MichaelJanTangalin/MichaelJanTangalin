@@ -23,7 +23,7 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: center; flex-wrap: wrap; justify-content: center; align-items: center; height: 100vh;">
     <div style="flex: 1; padding: 10px; max-width: 300px;">
         <img style="display: block; margin: 0 auto; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" />
     </div>
