@@ -23,22 +23,11 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; height: 100vh;">
-    <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img style="display: block; margin: 0 auto; width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" />
-    </div>
-    <div style="flex: 1; padding: 10px; max-width: 400px;">
-        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" />
-    </div>
-    <div style="flex: 1; padding: 10px; max-width: 400px;">
-        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" />
-    </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" /></p>
 
-    <div style="flex: 1; padding: 10px; max-width: 300px;">
-        <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin&" alt="michaeljantangalin" />
-    </div>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin&" alt="michaeljantangalin" /></p>
 
 
 
