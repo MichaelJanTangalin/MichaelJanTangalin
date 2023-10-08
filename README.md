@@ -26,13 +26,16 @@
 <div align="center">
     <table>
         <tr>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-            </tr>
-<tr>
-    <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+            <td style="width: 50%;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+            </td>
+            <td style="width: 50%;">
+                <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+            </td>
         </tr>
-        </table>
+    </table>
 </div>
+
 <div align="center">
   <img style="width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
 </div>
