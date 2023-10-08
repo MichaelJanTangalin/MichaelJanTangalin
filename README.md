@@ -26,10 +26,10 @@
 <div align="center">
     <table>
         <tr>
-  <img style="width:400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
             </tr>
 <tr>
-    <img style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
         </tr>
         </table>
 </div>
