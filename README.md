@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
+  <img style="width:80%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
 </div>
 
 
