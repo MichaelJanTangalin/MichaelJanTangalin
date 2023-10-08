@@ -46,7 +46,7 @@
     Bachelor of Science in Information Technology <br>
 2020 - Present <br></p>
 
-<h1 align="left">Certifications & Competency Development</h1>
+<h1 align="left">Certification of Knowledge and Competency</h1>
 
 <table>
   <tr>
