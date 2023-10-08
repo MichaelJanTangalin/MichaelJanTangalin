@@ -28,7 +28,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="michaeljantangalin" style="width: 400px"/>
   </div>
   <div style="margin-right: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="michaeljantangalin" style="width: 400px"/>
   </div>
   <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin&" alt="michaeljantangalin" />
