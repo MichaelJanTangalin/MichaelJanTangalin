@@ -119,6 +119,106 @@
 
 <h1 align="left">Seminars Attended</h1>
 
+<table>
+        <tr>
+            <th>Event Title</th>
+            <th>Organization</th>
+            <th>Date</th>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1aqKa87xx3TH2c2HZ-5j6xiuSzs9sn33m/view?usp=drive_link">Web Developing: Basic HTML and CSS Webinar</a></td>
+            <td>Christian Brotherhood International</td>
+            <td>February 25, 2021</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1lRc4M5Fm7cS_622k3qOhTQOZHJBN1ryI/view?usp=sharing">Data Driven Decision Making and Data Science</a></td>
+            <td>New Era University</td>
+            <td>March 26, 2022</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1utZaGa73P-dVW9pPFHsHEmO--QAJ0jhS/view?usp=sharing">Hello, New World: Webinar Summit: Intellectual Property Patents</a></td>
+            <td>New Era University</td>
+            <td>March 30, 2023</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1PMEhfKT5HbFYSOlZ8hlvM3Apmjrhmbsr/view?usp=sharing">“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</a></td>
+            <td>New Era University</td>
+            <td>October 5, 2023</td>
+        </tr>
+        <tr align="center">
+            <td colspan="3">Lessons, Trends and Opportunities in Technology Webinar Series</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Session 1</td>
+            <td><a href="https://drive.google.com/file/d/1oLhke0bwQ2PN8rGgxIhBy6x_itb-LJme/view?usp=sharing">Defender's Guide to a Successful Cybersecurity Career</a></td>
+            <td rowspan="3">March 25, 2022</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1YPY-7J0-tH6eEWY4pRc6o_cxksAcxuou/view?usp=sharing">Introduction to Web Development</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1o4VDI-7GzUGFmYEyVAVqhlGtIvUvV_Sn/view?usp=sharing">Database Management System: What it is and Why it matters</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3">Session 2</td>
+            <td><a href="https://drive.google.com/file/d/1KXX31zKq2gTwrJB_NDMnrmY2DyNtpuBE/view?usp=sharing">Careers in IT</a></td>
+            <td rowspan="3">April 1, 2022</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/14cSwLnP_lEVF7UlV7oPlGMW_WSFxsUOA/view?usp=sharing">Microsoft Power Apps</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1v7xwpMS6wYdt3S3_3bN1x86ShDZ0HPtK/view?usp=sharing">RPA: Robotic Process Automation</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3">Session 3</td>
+            <td><a href="https://drive.google.com/file/d/13U28SFQxczu4k4kLR030rorGDctfdRoS/view?usp=sharing">Data Protection</a></td>
+            <td rowspan="3">April 8, 2022</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1MAPZ7Yp7HM3Eo4k6sWg-vAt-vJfopGQT/view?usp=sharing">Ethical Hacking - Brute Force Attack</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1JhWUVRmhmoiztyzkeonQ1umJJMug5OPZ/view?usp=sharing">Process and Flows of an IT Project </a></td>
+        </tr>
+
+        <tr>
+            <td rowspan="3">Session 4</td>
+            <td><a href="https://drive.google.com/file/d/11g2XQzrk50VB0V0qFkWJtEyyq1AfQ7eC/view?usp=sharing">Exploring The New Age of Business Intelligence Innovation</a></td>
+            <td rowspan="3">April 12, 2022</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1mWdqW2DpS_vNL1SP2KwySj2GWkz7XNJ2/view?usp=sharing">IT Industry Landscape and Trends</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1iA_L8404VBMJ77y_10GWNP0Twijv3r7_/view?usp=sharing">Software Management</a></td>
+        </tr>
+
+        <tr>
+            <td rowspan="3">Session 5</td>
+            <td><a href="https://drive.google.com/file/d/13i6RsoHyTYcuSIcIkAwjlBMq_-oJEyVd/view?usp=sharing">Art Thieves: How to Protect Your Art</a></td>
+            <td rowspan="3">April 22, 2022</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1HdltxgGuK8DB8xQ848NH-W38XHPgQ0h8/view?usp=sharing">Working Abroad</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1R0noyQpCpAvxtORzLp0Bx4wVS3QaYrii/view?usp=sharing">Self-Learning Graphic Design</a></td>
+        </tr>
+
+        <tr>
+            <td rowspan="3">Session 6</td>
+            <td><a href="https://drive.google.com/file/d/1GOPbfGJUP8LPIq8u_Q69M55h6BBtFN1X/view?usp=sharing">Keeping Your Designs Fresh, But Still on Brand</a></td>
+            <td rowspan="3">April 29, 2022</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1TFMBJb286dOqVG2GxxDRxfmSaJ8J5z5g/view?usp=sharing">Introduction to 3D Modeling</a></td>
+        </tr>
+
+
+    </table>
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeljantangalin&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljantangalin" /> </p>
 
