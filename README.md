@@ -122,6 +122,67 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeljantangalin&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljantangalin" /> </p>
 
+<table border="1">
+        <tr>
+            <th>Date</th>
+            <th>Event</th>
+            <th>Host Organization</th>
+        </tr>
+        <tr>
+            <td>February 25, 2021</td>
+            <td>Web Developing: Basic HTML and CSS Webinar</td>
+            <td>Christian Brotherhood International</td>
+        </tr>
+        <tr>
+            <td>March 26, 2022</td>
+            <td>Data Driven Decision Making and Data Science</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>March 25, 2022</td>
+            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 1</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>April 1, 2022</td>
+            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 2</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>April 8, 2022</td>
+            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 3</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>April 12, 2022</td>
+            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 4</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>April 22, 2022</td>
+            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 5</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>April 29, 2022</td>
+            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 6</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>March 30, 2023</td>
+            <td>Hello, New World: Webinar Summit: Intellectual Property Patents</td>
+            <td>New Era University</td>
+        </tr>
+        <tr>
+            <td>October 5, 2023</td>
+            <td>“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</td>
+            <td>Rotary Club of Manila Sta. Ana</td>
+        </tr>
+    </table>
+
+
+
+
 
 
 
