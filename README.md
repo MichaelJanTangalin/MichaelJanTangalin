@@ -120,7 +120,7 @@
 <h1 align="left">Seminars Attended</h1>
 <table>
         <tr>
-            <th>Event Title</th>
+            <th>Seminar Title</th>
             <th>Organization</th>
             <th>Date</th>
         </tr>
