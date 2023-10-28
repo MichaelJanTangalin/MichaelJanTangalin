@@ -116,10 +116,13 @@
   </tr>
 </table>
 
+
+<h1 align="left">Seminars Attended</h1>
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeljantangalin&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljantangalin" /> </p>
 
-<h1 align="left">Seminars Attended</h1>
+
 
 
 
