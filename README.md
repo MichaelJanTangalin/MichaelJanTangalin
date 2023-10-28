@@ -122,61 +122,139 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeljantangalin&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljantangalin" /> </p>
 
-<table border="1">
+<table>
         <tr>
+            <th>Event Title</th>
+            <th>Organization</th>
             <th>Date</th>
-            <th>Event</th>
-            <th>Host Organization</th>
         </tr>
         <tr>
-            <td>February 25, 2021</td>
             <td>Web Developing: Basic HTML and CSS Webinar</td>
             <td>Christian Brotherhood International</td>
+            <td>February 25, 2021</td>
         </tr>
         <tr>
-            <td>March 26, 2022</td>
             <td>Data Driven Decision Making and Data Science</td>
             <td>New Era University</td>
+            <td>March 26, 2022</td>
         </tr>
         <tr>
-            <td>March 25, 2022</td>
-            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 1</td>
-            <td>New Era University</td>
+            <td colspan="3">Lessons, Trends and Opportunities in Technology Webinar Series</td>
         </tr>
         <tr>
-            <td>April 1, 2022</td>
-            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 2</td>
-            <td>New Era University</td>
+            <td>Session 1: March 25, 2022</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>April 8, 2022</td>
-            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 3</td>
-            <td>New Era University</td>
+            <td>- Defender's Guide to a Successful Cybersecurity Career</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>April 12, 2022</td>
-            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 4</td>
-            <td>New Era University</td>
+            <td>- Introduction to Web Development</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>April 22, 2022</td>
-            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 5</td>
-            <td>New Era University</td>
+            <td>- Database Management System: What it is and Why it matters</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>April 29, 2022</td>
-            <td>Lessons, Trends and Opportunities in Technology Webinar Series - Session 6</td>
-            <td>New Era University</td>
+            <td>Session 2: April 1, 2022</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>March 30, 2023</td>
+            <td>- Careers in IT</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Microsoft Power Apps</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- RPA: Robotic Process Automation</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Session 3: April 8, 2022</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Data Protection</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Ethical Hacking - Brute Force Attack</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Process and Flows of an IT Project</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Session 4: April 12, 2022</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Exploring The New Age of Business Intelligence Innovation</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- IT Industry Landscape and Trends</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Software Management</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Session 5: April 22, 2022</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Art Thieves: How to Protect Your Art</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Working Abroad</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>- Self-Learning Graphic Design</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Session 6: April 29, 2022</td>
+            - Keeping Your Designs Fresh, But Still on Brand
+            - Introduction to 3D Modeling
+        </tr>
+        <tr>
             <td>Hello, New World: Webinar Summit: Intellectual Property Patents</td>
             <td>New Era University</td>
+            <td>March 30, 2023</td>
         </tr>
         <tr>
-            <td>October 5, 2023</td>
             <td>“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</td>
             <td>Rotary Club of Manila Sta. Ana</td>
+            <td>October 5, 2023</td>
         </tr>
     </table>
 
