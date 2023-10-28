@@ -141,7 +141,7 @@
         </tr>
         <tr>
             <td><a href="https://drive.google.com/file/d/1PMEhfKT5HbFYSOlZ8hlvM3Apmjrhmbsr/view?usp=sharing">“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</a></td>
-            <td>New Era University</td>
+            <td>Rotary Club of Manila Sta. Ana</td>
             <td>October 5, 2023</td>
         </tr>
         <tr align="center">
