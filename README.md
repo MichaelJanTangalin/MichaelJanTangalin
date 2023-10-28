@@ -64,6 +64,11 @@
     <th>Institution</th>
     <th>Date Achieved</th>
   </tr>
+     <tr>
+    <td><a href="">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
+    <td>Oracle University</td>
+    <td>October 28, 2023</td>
+  </tr>
   <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145">Big Data 101</a></td>
     <td>Cognitive Class</td>
