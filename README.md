@@ -67,7 +67,7 @@
      <tr>
     <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5EA266B5964EE25384A5FD09839D97802442175A5AE3DE4C0B17EF7E3A595F2F">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
     <td>Oracle University</td>
-    <td>----</td>
+    <td>October 30, 2023</td>
   </tr>
   <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145">Big Data 101</a></td>
