@@ -65,7 +65,7 @@
     <th>Date Achieved</th>
   </tr>
      <tr>
-    <td><a href="#">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5EA266B5964EE25384A5FD09839D97802442175A5AE3DE4C0B17EF7E3A595F2F">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
     <td>Oracle University</td>
     <td>----</td>
   </tr>
