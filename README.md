@@ -94,6 +94,11 @@
     <td>DataCamp</td>
     <td>April 18, 2022</td>
   </tr>
+      <tr>
+    <td><a href="https://drive.google.com/file/d/1CQkyYORgkCQ9cbO8hUn64N4LrD32ysqy/view?usp=drive_link">Oracle Cloud Database Migration and Integration 2021 Certified Specialist</a></td>
+    <td>Oracle University</td>
+    <td>January 06, 2022</td>
+  </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/1g9iNFkG7KHYxiQHPWAyf_gQWmyH56g2B/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
@@ -103,11 +108,6 @@
     <td><a href="https://drive.google.com/file/d/1Tx5c5v93v-mwD2WPQ8eRr3Y1Tm9cVoPg/view?usp=drive_link">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
     <td>November 26, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/file/d/1CQkyYORgkCQ9cbO8hUn64N4LrD32ysqy/view?usp=drive_link">Oracle Cloud Database Migration and Integration 2021 Certified Specialist</a></td>
-    <td>Oracle University</td>
-    <td>January 06, 2022</td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/1bIs91ApFo0d54jjkuKClBDYDPlh7OulQ/view?usp=drive_link">Oracle Cloud Database Services 2021 Certified Specialist</a></td>
