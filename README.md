@@ -79,6 +79,12 @@
     <td>Cognitive Class</td>
     <td>September 29, 2023</td>
   </tr>
+    <tr>
+    <td><a href="https://skillshop.credential.net/eb4de957-13ce-457d-b0e4-4b1f43c235f5">Google Ads Search Certification
+</a></td>
+    <td>Google SkillShop</td>
+    <td>September 24, 2023</td>
+  </tr>
   <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/c9294117bd0f4d398e5129739672a1d3">SQL and Relational Databases 101</a></td>
     <td>Cognitive Class</td>
