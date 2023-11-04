@@ -95,22 +95,22 @@
     <td>April 18, 2022</td>
   </tr>
       <tr>
-    <td><a href="https://drive.google.com/file/d/1CQkyYORgkCQ9cbO8hUn64N4LrD32ysqy/view?usp=drive_link">Oracle Cloud Database Migration and Integration 2021 Certified Specialist</a></td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=605AD6795E7D95E8795759ABC95DCD70C22B3D3BD85DAFF35FFBD4C38A47FAC7&fbclid=IwAR1z-vRcOwLnUIaR22FBaDVOgSgtBx94KP7EwG0JdjksnEA6-w26cY2-5ZA">Oracle Cloud Database Migration and Integration 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
     <td>January 06, 2022</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1g9iNFkG7KHYxiQHPWAyf_gQWmyH56g2B/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806B7D6D6EA167ECE5FFFD2040DD090F10CDC1380973641CEC37ADDB7CAC89B">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
     <td>December 18, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1Tx5c5v93v-mwD2WPQ8eRr3Y1Tm9cVoPg/view?usp=drive_link">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=11517B9454F84268851D828EB630251784DB561EE0843513A6D790E01EFD0DCE">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
     <td>November 26, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1bIs91ApFo0d54jjkuKClBDYDPlh7OulQ/view?usp=drive_link">Oracle Cloud Database Services 2021 Certified Specialist</a></td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1831010588633AD076192C25AEE71E4AE96CC9500668149AA1427F41F51AB28A&fbclid=IwAR3K7yuUAGIxkFEtVBYOgZYcabxVJfVaQMRrE719qg0UUasC-Y_h5EyttXI">Oracle Cloud Database Services 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
     <td>December 29, 2021</td>
   </tr>
