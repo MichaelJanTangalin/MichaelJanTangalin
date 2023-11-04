@@ -125,11 +125,6 @@
             <th>Date</th>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1aqKa87xx3TH2c2HZ-5j6xiuSzs9sn33m/view?usp=drive_link">Web Developing: Basic HTML and CSS Webinar</a></td>
-            <td>Christian Brotherhood International</td>
-            <td>February 25, 2021</td>
-        </tr>
-        <tr>
             <td><a href="https://drive.google.com/file/d/1lRc4M5Fm7cS_622k3qOhTQOZHJBN1ryI/view?usp=sharing">Data Driven Decision Making and Data Science</a></td>
             <td>New Era University</td>
             <td>March 26, 2022</td>
@@ -143,6 +138,11 @@
             <td><a href="https://drive.google.com/file/d/1PMEhfKT5HbFYSOlZ8hlvM3Apmjrhmbsr/view?usp=sharing">“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</a></td>
             <td>Rotary Club of Manila Sta. Ana</td>
             <td>October 5, 2023</td>
+        </tr>
+            <tr>
+            <td><a href="https://drive.google.com/file/d/1aqKa87xx3TH2c2HZ-5j6xiuSzs9sn33m/view?usp=drive_link">Web Developing: Basic HTML and CSS Webinar</a></td>
+            <td>Christian Brotherhood International</td>
+            <td>February 25, 2021</td>
         </tr>
         <tr align="center">
                 <td colspan="3">Lessons, Trends and Opportunities in Technology Webinar Series</td>
