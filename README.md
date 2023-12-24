@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b6/14/1f/b6141f8d4d717ef1b0f79cbf0fcc1e38.png)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/b6/14/1f/b6141f8d4d717ef1b0f79cbf0fcc1e38.png)(https://rishavchanda.io)
 <h1 align="center">Michael Jan Rocreo Tangalin</h1>
 
 <p align="center">
