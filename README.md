@@ -1,4 +1,4 @@
-[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/2000910-Joel-Spolsky-Quote-Good-software-like-wine-takes-time.jpg)](https://rishavchanda.io)
+[![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)](https://rishavchanda.io)
 <h1 align="center">Michael Jan Rocreo Tangalin</h1>
 
 <p align="center">
