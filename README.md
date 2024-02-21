@@ -15,8 +15,9 @@
 
 
 
-<h3 align="center">
-   A Highly Dependable IT Support Specialist with practical expertise. Currently pursuing a Bachelor's degree in Information Technology at New Era University. Proficient in PHP, JAVA, Python, SQL, Front-End Development, Laravel Development, and Mobile Development. Skilled in software, hardware, and network troubleshooting. Committed to continuous learning and staying updated with the latest industry advancements. Eager to pursue new training opportunities and expand expertise in IT.
+<h3 align="justify">
+   1+ year of IT Support through practical experience and a graduating student pursuing Bachelor of Science in Information Technology at New Era University. Proficient in ASP.NET, PHP, JAVA, C#, Python, SQL, Front-End, Laravel, and Mobile Development. Skilled in software, hardware, and network troubleshooting and committed to continuous learning and eager to expand IT expertise through new training opportunities in the IT Industry.
+
 </h3>
 
 <br>
