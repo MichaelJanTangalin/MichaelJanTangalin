@@ -68,11 +68,36 @@
     <th>Institution</th>
     <th>Date Achieved</th>
   </tr>
+    <tr>
+        <td><a href="https://skillshop.credential.net/023b0d03-cef1-4aae-a745-b1a718053baa#gs.4mzh8g">Google Analytics Certification</a></td>
+        <td>Google LLC</td>
+        <td>February, 18, 2024</td>
+      </tr>
+    <tr>
+        <td><a href="https://www.udemy.com/certificate/UC-05b364c7-640e-4f6b-8866-efcb76cb8ad1/">Java Network Programming - Mastering TCP/IP: CJNP+2024 JVA</a></td>
+        <td>Udemy</td>
+        <td>February 07, 2024</td>
+      </tr>
+    <tr>
+        <td><a href="https://www.udemy.com/certificate/UC-21d10150-ffc2-411b-977a-e6df92a29093/">VMware vSphere Administration</a></td>
+        <td>Udemy</td>
+        <td>February 06, 2024</td>
+      </tr>
+    <tr>
+        <td><a href="https://www.udemy.com/certificate/UC-c0b3922d-a299-452b-bcc8-e96bddf5cf4e/">JavaScript for Beginners - The Complete introduction to JS</a></td>
+        <td>Udemy</td>
+        <td>February 06, 2024</td>
+      </tr>
      <tr>
     <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5EA266B5964EE25384A5FD09839D97802442175A5AE3DE4C0B17EF7E3A595F2F">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
     <td>Oracle University</td>
     <td>October 30, 2023</td>
   </tr>
+     <tr>
+        <td><a href="https://skillshop.credential.net/eb4de957-13ce-457d-b0e4-4b1f43c235f5#gs.4mzjwj">Google Ads Search Certification</a></td>
+        <td>Google LLC</td>
+        <td>September, 24, 2023</td>
+      </tr>
   <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145">Big Data 101</a></td>
     <td>Cognitive Class</td>
