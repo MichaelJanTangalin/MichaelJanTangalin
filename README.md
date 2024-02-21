@@ -134,6 +134,29 @@
             <th>Date</th>
         </tr>
        <tr>
+            <td><a href="https://drive.google.com/file/d/1v4pXpFkgxjAicB7HXvClzgX08P7rQTun/view?usp=sharing">ITU: Future of real-love in the virtual world: The Perfect Date</a></td>
+            <td>Digital Transformations Dialogues</td>
+            <td>February 14, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1v4pXpFkgxjAicB7HXvClzgX08P7rQTun/view?usp=sharing">Discovering Godot: An Introduction to Game Development Part 1
+</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 13, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1v4pXpFkgxjAicB7HXvClzgX08P7rQTun/view?usp=sharing">Cyber Hygiene and Digital Citizenship</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 11, 2024</td>
+        </tr>
+     <tr>
+            <td><
+                <a href="https://drive.google.com/file/d/1Z2vE0acAFUy9aPNkpUmfVmKuSGe8JNAI/view?usp=sharing">“Securing Hearts and Bytes: Navigating the Heartbeat of Digital                             Safety”</a>
+            </td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 08, 2024</td>
+        </tr>
+       <tr>
             <td><a href="https://drive.google.com/file/d/1PMEhfKT5HbFYSOlZ8hlvM3Apmjrhmbsr/view?usp=sharing">“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</a></td>
             <td>Rotary Club of Manila Sta. Ana</td>
             <td>October 5, 2023</td>
