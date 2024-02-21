@@ -150,7 +150,7 @@
             <td>February 11, 2024</td>
         </tr>
      <tr>
-            <td><
+            <td>
                 <a href="https://drive.google.com/file/d/1Z2vE0acAFUy9aPNkpUmfVmKuSGe8JNAI/view?usp=sharing">“Securing Hearts and Bytes: Navigating the Heartbeat of Digital                             Safety”</a>
             </td>
             <td>Department Of Information and Communications Technology</td>
