@@ -16,7 +16,7 @@
 
 
 <h3 align="center">
-   IT Student at New Era University, Quezon City, Philippines 
+   A Highly Dependable IT Support Specialist with practical expertise. Currently pursuing a Bachelor's degree in Information Technology at New Era University. Proficient in PHP, JAVA, Python, SQL, Front-End Development, Laravel Development, and Mobile Development. Skilled in software, hardware, and network troubleshooting. Committed to continuous learning and staying updated with the latest industry advancements. Eager to pursue new training opportunities and expand expertise in IT.
 </h3>
 
 <br>
@@ -57,7 +57,7 @@
 <h1 align="left">Education</h1>
 <p align="left"><b>New Era University</b> <br>
     Bachelor of Science in Information Technology <br>
-2020 - Present <br></p>
+2020 - 2024 <br></p>
 
 <h1 align="left">Certification and Knowledge Proficiency</h1>
 
