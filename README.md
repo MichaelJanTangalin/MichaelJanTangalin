@@ -46,6 +46,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
+![ASP.NET](https://img.shields.io/badge/asp.net-%231570B6.svg?style=flat&logo=.net&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 
 </div>
