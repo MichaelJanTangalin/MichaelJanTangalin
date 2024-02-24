@@ -3,7 +3,7 @@
   <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 </p>
 
-<h1 align="center">Hi there! I'm Michael Jan R. Tangalin 👋</h1>
+<h1 align="center">Hello World! I'm Michael Jan R. Tangalin 👋</h1>
 
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
