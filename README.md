@@ -72,7 +72,9 @@ My skills extend beyond development, encompassing software, hardware, and networ
 </div>
 
 <br clear="both">
-
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 
 <h1 align="left">Certification and Knowledge Proficiency</h1>
