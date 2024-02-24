@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋! My name is Michael Jan R. Tangalin</h1>
 
-###
+<p align="center">
+  <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelJanTangalin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelJanTangalin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Hi there! I'm Michael Jan R. Tangalin 👋</h1>
 
-###
+I'm a graduating student pursuing a Bachelor of Science in Information Technology at New Era University. With over 1 year of practical experience in IT support, I bring a blend of academic knowledge and hands-on expertise to the table.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### Technical Proficiency
 
-###
+I am proficient in a variety of technologies, including:
+
+- ASP.NET
+- PHP
+- JAVA
+- C#
+- Python
+- SQL
+- Front-End Technologies
+- Laravel
+- Mobile Development
+
+### IT Expertise
+
+My skills extend beyond development, encompassing software, hardware, and network troubleshooting. I am committed to continuous learning and eager to expand my IT expertise through new training opportunities in the IT industry.
+
+## Technologies
 
 <div align="left">
-<!-- Frontend Technologies -->
-
-    
-<!-- Backend Technologies -->
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
@@ -37,24 +48,33 @@
 
 </div>
 
-###
+## Connect with Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100092711776817" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+<a href="mailto: mj.tangalin2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael-jan-tangalin-86657b229/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
-###
+## GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelJanTangalin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelJanTangalin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJanTangalin&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+
 <h1 align="left">Certification and Knowledge Proficiency</h1>
 
 <table>
