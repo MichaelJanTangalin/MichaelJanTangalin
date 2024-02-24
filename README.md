@@ -5,6 +5,8 @@
 
 <h1 align="center">Hi there! I'm Michael Jan R. Tangalin 👋</h1>
 
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
 I'm a graduating student pursuing a Bachelor of Science in Information Technology at New Era University. With over 1 year of practical experience in IT support, I bring a blend of academic knowledge and hands-on expertise to the table.
 
 ### Technical Proficiency
@@ -64,16 +66,11 @@ My skills extend beyond development, encompassing software, hardware, and networ
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelJanTangalin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelJanTangalin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJanTangalin&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />-->
 
-</div>
-
-<br clear="both">
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 
