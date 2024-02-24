@@ -3,13 +3,13 @@
   <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 </p>
 
-<h1 align="center">Hello World! I'm Michael Jan R. Tangalin 👋</h1>
+<h1 align="center">Hello World! 👋 I'm Michael Jan R. Tangalin </h1>
 
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 I'm a graduating student pursuing a Bachelor of Science in Information Technology at New Era University. With over 1 year of practical experience in IT support, I bring a blend of academic knowledge and hands-on expertise to the table.
 
-### Technical Proficiency
+### 🔧 Technical Proficiency
 
 I am proficient in a variety of technologies, including:
 
@@ -23,7 +23,7 @@ I am proficient in a variety of technologies, including:
 - Laravel
 - Mobile Development
 
-### IT Expertise
+### 💾 IT Expertise
 
 My skills extend beyond development, encompassing software, hardware, and network troubleshooting. I am committed to continuous learning and eager to expand my IT expertise through new training opportunities in the IT industry.
 
@@ -50,7 +50,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
 
 </div>
 
-## Connect with Me
+## 🔗 Connect with Me
 
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100092711776817" target="_blank">
