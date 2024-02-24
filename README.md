@@ -23,13 +23,12 @@
 <br>
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width:50%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" style="width: 50%; height: auto;" />
+<div align="center" style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" width="88%"/>
 </div>
-<div align="center">
-  <img style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
-</div>
+
 
 
 
@@ -47,7 +46,6 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    &nbsp &nbsp &nbsp &nbsp
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 &nbsp &nbsp &nbsp &nbsp
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
