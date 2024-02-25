@@ -212,13 +212,12 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td>New Era University</td>
             <td>March 26, 2022</td>
         </tr>
-            <tr>
-            <td><a href="https://drive.google.com/file/d/1aqKa87xx3TH2c2HZ-5j6xiuSzs9sn33m/view?usp=drive_link">Web Developing: Basic HTML and CSS Webinar</a></td>
-            <td>Christian Brotherhood International</td>
-            <td>February 25, 2021</td>
+      <tr align="center">
+                <td colspan="3">Lessons, Trends and Opportunities in Technology Webinar Series</td>
         </tr>
         <tr align="center">
-                <td colspan="3">Lessons, Trends and Opportunities in Technology Webinar Series</td>
+                <td colspan="2">New Era University</td>
+                <td>March - April 2022</td>
         </tr>
     <tr>
             <td rowspan="3">Session 1</td>
@@ -276,13 +275,18 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td><a href="https://drive.google.com/file/d/1R0noyQpCpAvxtORzLp0Bx4wVS3QaYrii/view?usp=sharing">Self-Learning Graphic Design</a></td>
         </tr>
         <tr>
-            <td rowspan="3">Session 6</td>
+            <td rowspan="2">Session 6</td>
             <td><a href="https://drive.google.com/file/d/1GOPbfGJUP8LPIq8u_Q69M55h6BBtFN1X/view?usp=sharing">Keeping Your Designs Fresh, But Still on Brand</a></td>
-            <td rowspan="3">April 29, 2022</td>
+            <td rowspan="2">April 29, 2022</td>
         </tr>
         <tr>
             <td><a href="https://drive.google.com/file/d/1TFMBJb286dOqVG2GxxDRxfmSaJ8J5z5g/view?usp=sharing">Introduction to 3D Modeling</a></td>
         </tr>
+   <tr>
+              <td><a href="https://drive.google.com/file/d/1aqKa87xx3TH2c2HZ-5j6xiuSzs9sn33m/view?usp=drive_link">Web Developing: Basic HTML and CSS Webinar</a></td>
+              <td>Christian Brotherhood International</td>
+              <td>February 25, 2021</td>
+          </tr>
     </table>
 
 
