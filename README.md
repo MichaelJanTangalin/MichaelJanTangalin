@@ -49,6 +49,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
 ![ASP.NET](https://img.shields.io/badge/asp.net-%231570B6.svg?style=flat&logo=.net&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power%20bi-%230078D4.svg?style=flat&logo=power-bi&logoColor=white)
 ![Hitachi Pentaho](https://img.shields.io/badge/hitachi%20pentaho-%230F580D.svg?style=flat&logo=hitachi&logoColor=white)
+![Jaspersoft Studio](https://img.shields.io/badge/jaspersoft%20studio-%23C93F61.svg?style=flat&logo=jaspersoft&logoColor=white)
 ![SAP Crystal Reports](https://img.shields.io/badge/sap%20crystal%20reports-%23107C10.svg?style=flat&logo=sap&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 
