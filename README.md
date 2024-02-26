@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello World! 👋 I'm Michael Jan R. Tangalin </h1>
 
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 I'm a graduating student pursuing a Bachelor of Science in Information Technology at New Era University. With over 1 year of practical experience in IT support, I bring a blend of academic knowledge and hands-on expertise to the table.
 
