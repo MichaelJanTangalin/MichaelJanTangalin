@@ -67,7 +67,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
   <a href="https://www.linkedin.com/in/michael-jan-tangalin-86657b229/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="YOUR_DISCORD_INVITE_LINK" target="_blank">
+  <a href="https://discord.gg/D9kAcMK2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 </div>
