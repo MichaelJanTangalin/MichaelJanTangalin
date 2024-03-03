@@ -178,7 +178,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
 </table>
 
 
-## Seminars Attended
+## Seminars and Trainings
 <table>
         <tr>
             <th>Seminar Title</th>
