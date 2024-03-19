@@ -190,7 +190,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
         </tr>
         <tr>
         <td><a href="https://drive.google.com/file/d/1A6nVoULz0Uc0IOSf5IYiWpb7JnYLiFg7/view?usp=sharing">Discovering Godot: An Introduction to Game Development Part 2</a></td>
-            <td>Mapua - Center for Continuing Education and Special Competencies - CCESC </td>
+            <td>Department Of Information and Communications Technology</td>
             <td>February 21, 2024</td>
         </tr>
         <tr>
