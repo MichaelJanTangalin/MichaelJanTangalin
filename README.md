@@ -85,97 +85,30 @@ My skills extend beyond development, encompassing software, hardware, and networ
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeljantangalin&theme=dracula" alt="michaeljantangalin" />
 </a>
 
+## Professional Certifications:
+| Course | Institution | Date Achieved |
+| --- | --- | --- |
+| [Google Analytics Certification](https://skillshop.credential.net/023b0d03-cef1-4aae-a745-b1a718053baa#gs.4mzh8g) | Google LLC | February 18, 2024 |
+| [Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5EA266B5964EE25384A5FD09839D97802442175A5AE3DE4C0B17EF7E3A595F2F) | Oracle University | October 30, 2023 |
+| [Google Ads Search Certification](https://skillshop.credential.net/eb4de957-13ce-457d-b0e4-4b1f43c235f5#gs.4mzjwj) | Google LLC | September 24, 2023 |
+| [Oracle Cloud Database Migration and Integration 2021 Certified Specialist](https://catalog-education.oracle.com/pls/certview/sharebadge?id=605AD6795E7D95E8795759ABC95DCD70C22B3D3BD85DAFF35FFBD4C38A47FAC7&fbclid=IwAR1z-vRcOwLnUIaR22FBaDVOgSgtBx94KP7EwG0JdjksnEA6-w26cY2-5ZA) | Oracle University | January 06, 2022 |
+| [Oracle Cloud Infrastructure Foundations 2021 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806B7D6D6EA167ECE5FFFD2040DD090F10CDC1380973641CEC37ADDB7CAC89B) | Oracle University | December 18, 2021 |
+| [Oracle Autonomous Database Cloud 2021 Certified Specialist](https://catalog-education.oracle.com/pls/certview/sharebadge?id=11517B9454F84268851D828EB630251784DB561EE0843513A6D790E01EFD0DCE) | Oracle University | November 26, 2021 |
+| [Oracle Cloud Database Services 2021 Certified Specialist](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1831010588633AD076192C25AEE71E4AE96CC9500668149AA1427F41F51AB28A&fbclid=IwAR3K7yuUAGIxkFEtVBYOgZYcabxVJfVaQMRrE719qg0UUasC-Y_h5EyttXI) | Oracle University | December 29, 2021 |
 
-## Certification and Knowledge Proficiency
 
-<table>
-  <tr>
-    <th>Course</th>
-    <th>Institution</th>
-    <th>Date Achieved</th>
-  </tr>
-    <tr>
-        <td><a href="https://skillshop.credential.net/023b0d03-cef1-4aae-a745-b1a718053baa#gs.4mzh8g">Google Analytics Certification</a></td>
-        <td>Google LLC</td>
-        <td>February, 18, 2024</td>
-      </tr>
-    <tr>
-        <td><a href="https://www.udemy.com/certificate/UC-05b364c7-640e-4f6b-8866-efcb76cb8ad1/">Java Network Programming - Mastering TCP/IP: CJNP+2024 JVA</a></td>
-        <td>Udemy</td>
-        <td>February 07, 2024</td>
-      </tr>
-    <tr>
-        <td><a href="https://www.udemy.com/certificate/UC-21d10150-ffc2-411b-977a-e6df92a29093/">VMware vSphere Administration</a></td>
-        <td>Udemy</td>
-        <td>February 06, 2024</td>
-      </tr>
-    <tr>
-        <td><a href="https://www.udemy.com/certificate/UC-c0b3922d-a299-452b-bcc8-e96bddf5cf4e/">JavaScript for Beginners - The Complete introduction to JS</a></td>
-        <td>Udemy</td>
-        <td>February 06, 2024</td>
-      </tr>
-     <tr>
-    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5EA266B5964EE25384A5FD09839D97802442175A5AE3DE4C0B17EF7E3A595F2F">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
-    <td>Oracle University</td>
-    <td>October 30, 2023</td>
-  </tr>
-     <tr>
-        <td><a href="https://skillshop.credential.net/eb4de957-13ce-457d-b0e4-4b1f43c235f5#gs.4mzjwj">Google Ads Search Certification</a></td>
-        <td>Google LLC</td>
-        <td>September, 24, 2023</td>
-      </tr>
-  <tr>
-    <td><a href="https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145">Big Data 101</a></td>
-    <td>Cognitive Class</td>
-    <td>September 20, 2023</td>
-  </tr>
-  <tr>
-    <td><a href="https://courses.cognitiveclass.ai/certificates/fba705c74904411cafc42a2982036223">Data Privacy Fundamentals</a></td>
-    <td>Cognitive Class</td>
-    <td>September 29, 2023</td>
-  </tr>
-    <tr>
-    <td><a href="https://skillshop.credential.net/eb4de957-13ce-457d-b0e4-4b1f43c235f5">Google Ads Search Certification
-</a></td>
-    <td>Google SkillShop</td>
-    <td>September 24, 2023</td>
-  </tr>
-  <tr>
-    <td><a href="https://courses.cognitiveclass.ai/certificates/c9294117bd0f4d398e5129739672a1d3">SQL and Relational Databases 101</a></td>
-    <td>Cognitive Class</td>
-    <td>September 20, 2023</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/2791d74b5eadfcd3c0b5a03999fdc10bfef9061a">Intermediate SQL Queries</a></td>
-    <td>DataCamp</td>
-    <td>June 05, 2022</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/7f0acf09d6b3ed165bbdc0357e6baa33318bd2da">Understanding Data Engineering</a></td>
-    <td>DataCamp</td>
-    <td>April 18, 2022</td>
-  </tr>
-      <tr>
-    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=605AD6795E7D95E8795759ABC95DCD70C22B3D3BD85DAFF35FFBD4C38A47FAC7&fbclid=IwAR1z-vRcOwLnUIaR22FBaDVOgSgtBx94KP7EwG0JdjksnEA6-w26cY2-5ZA">Oracle Cloud Database Migration and Integration 2021 Certified Specialist</a></td>
-    <td>Oracle University</td>
-    <td>January 06, 2022</td>
-  </tr>
-  <tr>
-    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806B7D6D6EA167ECE5FFFD2040DD090F10CDC1380973641CEC37ADDB7CAC89B">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
-    <td>Oracle University</td>
-    <td>December 18, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=11517B9454F84268851D828EB630251784DB561EE0843513A6D790E01EFD0DCE">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
-    <td>Oracle University</td>
-    <td>November 26, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1831010588633AD076192C25AEE71E4AE96CC9500668149AA1427F41F51AB28A&fbclid=IwAR3K7yuUAGIxkFEtVBYOgZYcabxVJfVaQMRrE719qg0UUasC-Y_h5EyttXI">Oracle Cloud Database Services 2021 Certified Specialist</a></td>
-    <td>Oracle University</td>
-    <td>December 29, 2021</td>
-  </tr>
-</table>
+
+## Knowledge Proficiency Courses:
+| Course | Institution | Date Achieved |
+| --- | --- | --- |
+| [Java Network Programming - Mastering TCP/IP: CJNP+2024 JVA](https://www.udemy.com/certificate/UC-05b364c7-640e-4f6b-8866-efcb76cb8ad1/) | Udemy | February 07, 2024 |
+| [VMware vSphere Administration](https://www.udemy.com/certificate/UC-21d10150-ffc2-411b-977a-e6df92a29093/) | Udemy | February 06, 2024 |
+| [JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-c0b3922d-a299-452b-bcc8-e96bddf5cf4e/) | Udemy | February 06, 2024 |
+| [Big Data 101](https://courses.cognitiveclass.ai/certificates/d1e5ab1d31cc4ecdba6beffd414bf145) | Cognitive Class | September 20, 2023 |
+| [Data Privacy Fundamentals](https://courses.cognitiveclass.ai/certificates/fba705c74904411cafc42a2982036223) | Cognitive Class | September 29, 2023 |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c9294117bd0f4d398e5129739672a1d3) | Cognitive Class | September 20, 2023 |
+| [Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/2791d74b5eadfcd3c0b5a03999fdc10bfef9061a) | DataCamp | June 05, 2022 |
+| [Understanding Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/7f0acf09d6b3ed165bbdc0357e6baa33318bd2da) | DataCamp | April 18, 2022 |
 
 
 ## Seminars and Trainings
@@ -185,13 +118,103 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <th>Organization</th>
             <th>Date</th>
         </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1K_uXLMHkBP_0UC9MsZCtPsOMJTEsS8ti/view?usp=sharing">Digital Tuesdays: Balancing Traditional Content Marketing with AI</a></td>
+            <td>DTI Rizal</td>
+            <td>March 05, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1_vfBDbDCKjCHiPSmvajPqn6I0evsermY/view?usp=sharing">Introduction in CISCO Networking Academy, Introduction in Python Programming, and Cybersecurity & Data Privacy Awareness</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>March 05, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1_JREKjKbYHssj0BWwY3dcBrQDiviUsKq/view?usp=sharing">Cisco Python</a></td>
+            <td>Mapua - Center for Continuing Education and Special Competencies - CCESC</td>
+            <td>March 01, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1wFO9hsRkfUJv9GmixaMyC2uD3NHZU5RT/view?usp=sharing">Unlocking your Cybersecurity Career: Demystifying ISC2 Entry-Level Certifications</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 29, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="#">DICT Cybersecurity Bureau's Safer Internet Month Celebration 2024: Ctrl + Inspire: Influence Wisely, Navigate Safely</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 28, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/15VEj2sBKwiCjqR8uWn-FAZHOBULl1paR/view?usp=sharing">Introduction to Generation Connect & Digital Careers Expo</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 28, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1PO5wD7SgmWkN8BvHMnzauf1J3daXaTMo/view?usp=sharing">Cyber Resilience: Understanding the Evolving Landscape of Data Leaks</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 27, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1slayhScSzVUWpQwU7Zvxiui2qDKhurxH/view?usp=sharing">Digital Tuesdays: AI-powered Facebook Ads Strategies: Leveraging AI for Efficient Campaign Creation and Optimization</a></td>
+            <td>DTI Rizal</td>
+            <td>February 27, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://truecertificates.com/verified/8AYQGUTLJL">Visualizing Data: Creating Impactful Charts and Graphs</a></td>
+            <td>Xaltius</td>
+            <td>February 25, 2024</td>
+        </tr>
+   <tr>
+        <td><a href="https://drive.google.com/file/d/16pRlCs6_qI1PJ8vQZdZat-fkm5Cz-d83/view?usp=sharing">Web Wise: Internet Safety Strategies for Combating Online Abuse and Exploitation.</a></td>
+            <td>College Of Calamba - IFIGHT CCC Chapter</td>
+            <td>February 24, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1tlQbhQv9hydynWle5XUAHVDRvif0GzYl/view?usp=sharing">Securing the Future: A Deep Dive into Higher Education for Cybersecurity in the Philippines</a></td>
+            <td>Tech Academy</td>
+            <td>February 24, 2024</td>
+        </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1dWEAiF67mVxueD5tu4smplEO1pfyhW91/view?usp=sharing">Introduction to Artificial Intelligence (AI)</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 24, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1-cUoFq6Vht5IRiB8aAzzYOuXYLjz-2YK/view?usp=sharing">Crafting the Foundations: Exploring the Essence of AI Prompt Engineering Registration</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 24, 2024</td>
+        </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1H73_YZ_tvwfQ8oRrn-f5Y8Ezc7Ot3fIr/view?usp=sharing">Leveraging Microsoft AI Services</a></td>
+            <td>Mapua - Center for Continuing Education and Special Competencies - CCESC</td>
+            <td>February 23, 2024</td>
+        </tr>
+        <tr>
+        <td><a href="https://drive.google.com/file/d/1A6nVoULz0Uc0IOSf5IYiWpb7JnYLiFg7/view?usp=sharing">Discovering Godot: An Introduction to Game Development Part 2</a></td>
+            <td>Mapua - Center for Continuing Education and Special Competencies - CCESC </td>
+            <td>February 21, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/16y6pU3Xkjx5ajfhLf1YNjsOnVnWCZdIg/view?usp=sharing">Ask the Expert Session - Urban Intelligence Unveiled: AI Principles for Smart Cities</a></td>
+            <td>Digital Transformations Dialogues</td>
+            <td>February 21, 2024</td>
+        </tr>
+      <tr>
+            <td><a href="https://drive.google.com/file/d/16y6pU3Xkjx5ajfhLf1YNjsOnVnWCZdIg/view?usp=sharing">The Dynamics of Cloud Computing</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 18, 2024</td>
+        </tr>
+      <tr>
+            <td><a href="https://drive.google.com/file/d/16y6pU3Xkjx5ajfhLf1YNjsOnVnWCZdIg/view?usp=sharing">Safer Internet Day 2024 Empowering Young People to Share Their Online World</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 16, 2024</td>
+        </tr>
        <tr>
-            <td><a href="https://drive.google.com/file/d/1v4pXpFkgxjAicB7HXvClzgX08P7rQTun/view?usp=sharing">ITU: Future of real-love in the virtual world: The Perfect Date</a></td>
+            <td><a href="https://drive.google.com/file/d/16y6pU3Xkjx5ajfhLf1YNjsOnVnWCZdIg/view?usp=sharing">ITU: Future of real-love in the virtual world: The Perfect Date</a></td>
             <td>Digital Transformations Dialogues</td>
             <td>February 14, 2024</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1v4pXpFkgxjAicB7HXvClzgX08P7rQTun/view?usp=sharing">Discovering Godot: An Introduction to Game Development Part 1
+            <td><a href="https://drive.google.com/file/d/1Gg7z1P4LWOnMSByNiu_mpTdTPFQy8JoK/view?usp=sharing">Discovering Godot: An Introduction to Game Development Part 1
 </a></td>
             <td>Department Of Information and Communications Technology</td>
             <td>February 13, 2024</td>
@@ -209,17 +232,17 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td>February 08, 2024</td>
         </tr>
        <tr>
-            <td><a href="https://drive.google.com/file/d/1PMEhfKT5HbFYSOlZ8hlvM3Apmjrhmbsr/view?usp=sharing">“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</a></td>
+            <td><a href="https://drive.google.com/file/d/1qH9EKxurO5Ue_KBpqdrLsz9JzDVimklG/view?usp=sharing">“Ayoko Sa Scammer” Cybersecurity Awareness Webinar</a></td>
             <td>Rotary Club of Manila Sta. Ana</td>
             <td>October 5, 2023</td>
         </tr>
     <tr>
-            <td><a href="https://drive.google.com/file/d/1utZaGa73P-dVW9pPFHsHEmO--QAJ0jhS/view?usp=sharing">Hello, New World: Webinar Summit: Intellectual Property Patents</a></td>
+            <td><a href="https://drive.google.com/file/d/1fJJmrrNdo4NcAnkpcp1Id0WZcJCG57Av/view?usp=sharing">Hello, New World: Webinar Summit: Intellectual Property Patents</a></td>
             <td>New Era University</td>
             <td>March 30, 2023</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1lRc4M5Fm7cS_622k3qOhTQOZHJBN1ryI/view?usp=sharing">Data Driven Decision Making and Data Science</a></td>
+            <td><a href="https://drive.google.com/file/d/1tZuOIsG0e-x7UbGi8qNYL1eCKfUYbEsM/view?usp=sharing">Data Driven Decision Making and Data Science</a></td>
             <td>New Era University</td>
             <td>March 26, 2022</td>
         </tr>
@@ -232,69 +255,69 @@ My skills extend beyond development, encompassing software, hardware, and networ
         </tr>
     <tr>
             <td rowspan="3">Session 1</td>
-            <td><a href="https://drive.google.com/file/d/1oLhke0bwQ2PN8rGgxIhBy6x_itb-LJme/view?usp=sharing">Defender's Guide to a Successful Cybersecurity Career</a></td>
+            <td><a href="https://drive.google.com/file/d/116Syvq52wAPa-HdJ625j7qE9gAf1VRkZ/view?usp=sharing">Defender's Guide to a Successful Cybersecurity Career</a></td>
             <td rowspan="3">March 25, 2022</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1YPY-7J0-tH6eEWY4pRc6o_cxksAcxuou/view?usp=sharing">Introduction to Web Development</a></td>
+            <td><a href="https://drive.google.com/file/d/1Ehvgp01Cjcp9maKEV9I7thmqxK3I1pNo/view?usp=sharing">Introduction to Web Development</a></td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1o4VDI-7GzUGFmYEyVAVqhlGtIvUvV_Sn/view?usp=sharing">Database Management System: What it is and Why it matters</a></td>
+            <td><a href="https://drive.google.com/file/d/1o9DXBnciscozVb79muWrRpfUhBbw2USZ/view?usp=sharing">Database Management System: What it is and Why it matters</a></td>
         </tr>
         <tr>
             <td rowspan="3">Session 2</td>
-            <td><a href="https://drive.google.com/file/d/1KXX31zKq2gTwrJB_NDMnrmY2DyNtpuBE/view?usp=sharing">Careers in IT</a></td>
+            <td><a href="https://drive.google.com/file/d/1LJTvGd2YA7ozJlpgFgR41Skzv4vh8Qb4/view?usp=sharing">Careers in IT</a></td>
             <td rowspan="3">April 1, 2022</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/14cSwLnP_lEVF7UlV7oPlGMW_WSFxsUOA/view?usp=sharing">Microsoft Power Apps</a></td>
+            <td><a href="https://drive.google.com/file/d/136k4crS6ZEengcA30sBtdlA1ZmzzQZcV/view?usp=sharing">Microsoft Power Apps</a></td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1v7xwpMS6wYdt3S3_3bN1x86ShDZ0HPtK/view?usp=sharing">RPA: Robotic Process Automation</a></td>
+            <td><a href="https://drive.google.com/file/d/19rzRBJ0RV4ZOjNn6b72GUvJha0dQoJfk/view?usp=sharing">RPA: Robotic Process Automation</a></td>
         </tr>
         <tr>
             <td rowspan="3">Session 3</td>
-            <td><a href="https://drive.google.com/file/d/13U28SFQxczu4k4kLR030rorGDctfdRoS/view?usp=sharing">Data Protection</a></td>
+            <td><a href="https://drive.google.com/file/d/178IaAepr_EoJm-sBZZlW2yO7F5RZdI6v/view?usp=sharing">Data Protection</a></td>
             <td rowspan="3">April 8, 2022</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1MAPZ7Yp7HM3Eo4k6sWg-vAt-vJfopGQT/view?usp=sharing">Ethical Hacking - Brute Force Attack</a></td>
+            <td><a href="https://drive.google.com/file/d/1H_3NhHrjj6zJTdRhBGMGLqSZdOWGpoaO/view?usp=sharing">Ethical Hacking - Brute Force Attack</a></td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1JhWUVRmhmoiztyzkeonQ1umJJMug5OPZ/view?usp=sharing">Process and Flows of an IT Project </a></td>
+            <td><a href="https://drive.google.com/file/d/1cz69aWKVFpwcnrSTwMElf4uIvqatqa-x/view?usp=sharing">Process and Flows of an IT Project </a></td>
         </tr>
         <tr>
             <td rowspan="3">Session 4</td>
-            <td><a href="https://drive.google.com/file/d/11g2XQzrk50VB0V0qFkWJtEyyq1AfQ7eC/view?usp=sharing">Exploring The New Age of Business Intelligence Innovation</a></td>
+            <td><a href="https://drive.google.com/file/d/1qTH7Eeu5pP8X7_vE6Wg46wujNbT6qQhG/view?usp=sharing">Exploring The New Age of Business Intelligence Innovation</a></td>
             <td rowspan="3">April 12, 2022</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1mWdqW2DpS_vNL1SP2KwySj2GWkz7XNJ2/view?usp=sharing">IT Industry Landscape and Trends</a></td>
+            <td><a href="https://drive.google.com/file/d/1eOvdNm5om5U5Gs5Kr8J2y8667GMojT7H/view?usp=sharing">IT Industry Landscape and Trends</a></td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1iA_L8404VBMJ77y_10GWNP0Twijv3r7_/view?usp=sharing">Software Management</a></td>
+            <td><a href="https://drive.google.com/file/d/1qG9ZIgy-J7LIfPkAY5JVLAtqUgKLlL9v/view?usp=sharing">Software Management</a></td>
         </tr>
         <tr>
             <td rowspan="3">Session 5</td>
-            <td><a href="https://drive.google.com/file/d/13i6RsoHyTYcuSIcIkAwjlBMq_-oJEyVd/view?usp=sharing">Art Thieves: How to Protect Your Art</a></td>
+            <td><a href="https://drive.google.com/file/d/1pzTtEgOSQeEEAv4I-5iOOGO7uGuXKreu/view?usp=sharing">Art Thieves: How to Protect Your Art</a></td>
             <td rowspan="3">April 22, 2022</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1HdltxgGuK8DB8xQ848NH-W38XHPgQ0h8/view?usp=sharing">Working Abroad</a></td>
+            <td><a href="https://drive.google.com/file/d/18U53-rc-JYeJjmLS-t7uGC2R6L8Vw02a/view?usp=sharing">Working Abroad</a></td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1R0noyQpCpAvxtORzLp0Bx4wVS3QaYrii/view?usp=sharing">Self-Learning Graphic Design</a></td>
+            <td><a href="https://drive.google.com/file/d/16Wp_WqKUty4NAlxJK3KiRdgxf4SWK26C/view?usp=sharing">Self-Learning Graphic Design</a></td>
         </tr>
         <tr>
             <td rowspan="2">Session 6</td>
-            <td><a href="https://drive.google.com/file/d/1GOPbfGJUP8LPIq8u_Q69M55h6BBtFN1X/view?usp=sharing">Keeping Your Designs Fresh, But Still on Brand</a></td>
+            <td><a href="https://drive.google.com/file/d/15goxI7MqQ4m9ISdMci9Ke9IoManUdrMQ/view?usp=sharing">Keeping Your Designs Fresh, But Still on Brand</a></td>
             <td rowspan="2">April 29, 2022</td>
         </tr>
         <tr>
-            <td><a href="https://drive.google.com/file/d/1TFMBJb286dOqVG2GxxDRxfmSaJ8J5z5g/view?usp=sharing">Introduction to 3D Modeling</a></td>
+            <td><a href="https://drive.google.com/file/d/1PllhvOHhYUkCMS1O8u8WPX_-nXup3A4o/view?usp=sharing">Introduction to 3D Modeling</a></td>
         </tr>
    <tr>
-              <td><a href="https://drive.google.com/file/d/1aqKa87xx3TH2c2HZ-5j6xiuSzs9sn33m/view?usp=drive_link">Web Developing: Basic HTML and CSS Webinar</a></td>
+              <td><a href="https://drive.google.com/file/d/10vfw696XjAwv1BPaEC8KtEGDsrCJgohn/view?usp=sharing">Web Developing: Basic HTML and CSS Webinar</a></td>
               <td>Christian Brotherhood International</td>
               <td>February 25, 2021</td>
           </tr>
