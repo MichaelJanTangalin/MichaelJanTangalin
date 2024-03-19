@@ -27,6 +27,40 @@ I am proficient in a variety of technologies, including:
 
 My skills extend beyond development, encompassing software, hardware, and network troubleshooting. I am committed to continuous learning and eager to expand my IT expertise through new training opportunities in the IT industry.
 
+## Working Experience
+
+| Organization                                      | Position                                      | Duration                 |
+|--------------------------------------------------|-----------------------------------------------|--------------------------|
+| National Kidney and Transplant Institute         | IT Trainee (Internship)                      | November 2023 - March 2024 |
+| NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – Present      |
+| Civic Merchandising Inc.                         | Project Based: IT Support Staff (Contract)   | June 2022 - October 2022 |
+
+### National Kidney and Transplant Institute
+
+**Duties & Responsibilities:**
+- **ASP.NET Development:** Engaged in coding using the ASP.NET framework and C# for backend development and collaborated with the programmers that mentor us to create, modify, and maintain web applications.
+- **Database Management:** Utilized SQL Management Studio to manage and maintain the database, ensuring its integrity, security, and optimizing performance.
+- **SAP Crystal Reports:** Integrated SAP Crystal Reports into developed applications to generate dynamic and customizable reports, retrieving data from the database and formatting it for printing and saving as PDFs.
+- **Learning and Skill Development:** Actively involved in learning and developing new skills in ASP.NET, C#, SQL, and other relevant technologies under the guidance of supervisors and other employees, demonstrating dedication to professional development throughout the internship.
+- **Technical Support:** Provided first-level technical support to end-users via phone, addressing software, hardware, or network-related issues.
+
+### NewCyber Computer Center
+
+**Duties & Responsibilities:**
+- **Custom PC Building:** Assembled and disassembled high-end computers optimized for gaming and multipurpose use, selecting components based on performance requirements and user preferences.
+- **Consulting Services:** Provided consultation services to clients seeking advice on upgrading specific parts of their PCs or laptops, offering recommendations based on performance needs, budget constraints, and future-proofing considerations.
+- **Preventive Maintenance and Computer Upgrades:** Diagnosed and resolved hardware and software issues on laptops and desktop computers, offering deep cleaning services and performing upgrades.
+- **Sales and Marketing:** Marketed and sold custom-built PCs and hardware parts online through social media platforms.
+- **Quality Testing:** Conducted thorough testing and quality assurance checks on assembled systems to guarantee optimal performance before delivering the final product to customers or clients.
+
+### Civic Merchandising Inc.
+
+**Duties & Responsibilities:**
+- **Preventive Maintenance:** Conducted regular preventive maintenance on software and hardware components of computers across different departments, ensuring systems were updated with the latest software patches and security updates.
+- **Hardware Maintenance and Upgrades:** Performed upgrades to desktop and laptop components to enhance system performance.
+- **End-User Support:** Provided prompt and effective support to end-users facing hardware, software, or network issues and offered guidance and assistance in utilizing IT resources efficiently.
+
+
 ## Technologies
 
 <div align="left">
