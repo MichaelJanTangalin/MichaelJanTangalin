@@ -135,6 +135,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
 ## Knowledge Proficiency Courses:
 | Course | Institution | Date Achieved |
 | --- | --- | --- |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/831f9059-87d2-4520-b93c-3c035e8f439b/linked_in_profile) | Cisco | March 25, 2024 |
 | [Java Network Programming - Mastering TCP/IP: CJNP+2024 JVA](https://www.udemy.com/certificate/UC-05b364c7-640e-4f6b-8866-efcb76cb8ad1/) | Udemy | February 07, 2024 |
 | [VMware vSphere Administration](https://www.udemy.com/certificate/UC-21d10150-ffc2-411b-977a-e6df92a29093/) | Udemy | February 06, 2024 |
 | [JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-c0b3922d-a299-452b-bcc8-e96bddf5cf4e/) | Udemy | February 06, 2024 |
