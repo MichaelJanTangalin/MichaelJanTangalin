@@ -154,6 +154,11 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <th>Date</th>
         </tr>
   <tr>
+        <td><a href="https://drive.google.com/file/d/1UH4hExg2km5JM_0PiK0nl2HKeobYXyxh/view?usp=sharing">The Red Team Side of Cybersecurity</a></td>
+            <td>Tech Academy</td>
+            <td>March 25, 2024</td>
+        </tr>
+  <tr>
         <td><a href="https://drive.google.com/file/d/1K_uXLMHkBP_0UC9MsZCtPsOMJTEsS8ti/view?usp=sharing">Digital Tuesdays: Balancing Traditional Content Marketing with AI</a></td>
             <td>DTI Rizal</td>
             <td>March 05, 2024</td>
