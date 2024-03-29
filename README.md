@@ -239,7 +239,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td>February 21, 2024</td>
         </tr>
       <tr>
-            <td><a href="https://drive.google.com/file/d/16y6pU3Xkjx5ajfhLf1YNjsOnVnWCZdIg/view?usp=sharing">The Dynamics of Cloud Computing</a></td>
+            <td><a href="https://drive.google.com/file/d/1PHfDouYIWl6rkF5bd2jS_Y6VswVAA-Qi/view?usp=sharing">The Dynamics of Cloud Computing</a></td>
             <td>Department Of Information and Communications Technology</td>
             <td>February 18, 2024</td>
         </tr>
