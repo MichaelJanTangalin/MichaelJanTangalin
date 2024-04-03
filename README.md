@@ -174,6 +174,11 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td>DTI Rizal</td>
             <td>March 05, 2024</td>
         </tr>
+   <tr>
+        <td><a href="https://drive.google.com/file/d/1AeGQG5aQ00y6-iEFWPcbA2ksG2NUxEWr/view?usp=sharing">Generative AI - Working With Large Language Models</a></td>
+            <td>Cognixia</td>
+            <td>March 05, 2024</td>
+        </tr>
   <tr>
         <td><a href="https://drive.google.com/file/d/1_vfBDbDCKjCHiPSmvajPqn6I0evsermY/view?usp=sharing">Introduction in CISCO Networking Academy, Introduction in Python Programming, and Cybersecurity & Data Privacy Awareness</a></td>
             <td>Department Of Information and Communications Technology</td>
