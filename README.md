@@ -136,6 +136,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
 | Course | Institution | Date Achieved |
 | --- | --- | --- |
 | [Introduction to Cybersecurity](https://www.credly.com/badges/831f9059-87d2-4520-b93c-3c035e8f439b/linked_in_profile) | Cisco | March 25, 2024 |
+| [Microsoft Azure Security Technologies](https://learn.microsoft.com/api/achievements/share/en-us/MichaelJanTangalin-8529/2KMDQ5AV?sharingId=97B49EDB79EFA535) | Microsoft | March 25, 2024
 | [Java Network Programming - Mastering TCP/IP: CJNP+2024 JVA](https://www.udemy.com/certificate/UC-05b364c7-640e-4f6b-8866-efcb76cb8ad1/) | Udemy | February 07, 2024 |
 | [VMware vSphere Administration](https://www.udemy.com/certificate/UC-21d10150-ffc2-411b-977a-e6df92a29093/) | Udemy | February 06, 2024 |
 | [JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-c0b3922d-a299-452b-bcc8-e96bddf5cf4e/) | Udemy | February 06, 2024 |
@@ -152,6 +153,16 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <th>Seminar Title</th>
             <th>Organization</th>
             <th>Date</th>
+        </tr>
+   <tr>
+        <td><a href="https://truecertificates.com/verified/78XJGVG2Y7">Social Engineering Defense: Protecting Against Human-Driven Threats</a></td>
+            <td>Xaltius</td>
+            <td>Apr 3, 2024</td>
+        </tr>
+   <tr>
+        <td><a href="https://truecertificates.com/verified/2PWP5WRLLW">Securing the Digital World: Basics of Network Security</a></td>
+            <td>Xaltius</td>
+            <td>Apr 3, 2024</td>
         </tr>
   <tr>
         <td><a href="https://drive.google.com/file/d/1UH4hExg2km5JM_0PiK0nl2HKeobYXyxh/view?usp=sharing">The Red Team Side of Cybersecurity</a></td>
