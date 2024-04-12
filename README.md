@@ -154,6 +154,11 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <th>Organization</th>
             <th>Date</th>
         </tr>
+  <tr>
+        <td><a href="https://drive.google.com/file/d/1sJnyWA3DxmFGHUSGYr3WUVvjK_AnXRcc/view?usp=sharing">Beyond the Basics: A compTIA IT Fundamentals + Workshop</a></td>
+            <td>Trainocate</td>
+            <td>Apr 8, 2024</td>
+        </tr>
    <tr>
         <td><a href="https://truecertificates.com/verified/78XJGVG2Y7">Social Engineering Defense: Protecting Against Human-Driven Threats</a></td>
             <td>Xaltius</td>
