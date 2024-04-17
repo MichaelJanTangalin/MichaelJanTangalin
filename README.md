@@ -199,6 +199,11 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td>Department Of Information and Communications Technology</td>
             <td>February 29, 2024</td>
         </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1piUaBiSb94HkRkHQCZKrGsKUYx99-ZB_/view?usp=sharing">Safer Internet Day Webinar "Ctrl + Inspire: Influence Wisely, Navigate Safely"</a></td>
+            <td>Department Of Information and Communications Technology</td>
+            <td>February 28-29, 2024</td>
+        </tr>
   <tr>
         <td><a href="#">DICT Cybersecurity Bureau's Safer Internet Month Celebration 2024: Ctrl + Inspire: Influence Wisely, Navigate Safely</a></td>
             <td>Department Of Information and Communications Technology</td>
@@ -244,6 +249,7 @@ My skills extend beyond development, encompassing software, hardware, and networ
             <td>Department Of Information and Communications Technology</td>
             <td>February 24, 2024</td>
         </tr>
+
   <tr>
         <td><a href="https://drive.google.com/file/d/1H73_YZ_tvwfQ8oRrn-f5Y8Ezc7Ot3fIr/view?usp=sharing">Leveraging Microsoft AI Services</a></td>
             <td>Mapua - Center for Continuing Education and Special Competencies - CCESC</td>
