@@ -202,11 +202,6 @@ My skills extend beyond development, encompassing software, hardware, and networ
     <tr>
         <td><a href="https://drive.google.com/file/d/1piUaBiSb94HkRkHQCZKrGsKUYx99-ZB_/view?usp=sharing">Safer Internet Day Webinar "Ctrl + Inspire: Influence Wisely, Navigate Safely"</a></td>
             <td>Department Of Information and Communications Technology</td>
-            <td>February 28-29, 2024</td>
-        </tr>
-  <tr>
-        <td><a href="#">DICT Cybersecurity Bureau's Safer Internet Month Celebration 2024: Ctrl + Inspire: Influence Wisely, Navigate Safely</a></td>
-            <td>Department Of Information and Communications Technology</td>
             <td>February 28, 2024</td>
         </tr>
   <tr>
