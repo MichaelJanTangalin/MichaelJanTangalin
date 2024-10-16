@@ -9,59 +9,16 @@
 
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-I'm a graduating student pursuing a Bachelor of Science in Information Technology at New Era University. With over 1 year of practical experience in IT support, I bring a blend of academic knowledge and hands-on expertise to the table.
-
-### Technical Proficiency
-
-I am proficient in a variety of technologies, including:
-
-- ASP.NET
-- PHP
-- JAVA
-- C#
-- Python
-- SQL
-- Front-End Technologies
-- Laravel
-- Mobile Development
-
-### IT Expertise
-
-My skills extend beyond development, encompassing software, hardware, and network troubleshooting. I am committed to continuous learning and eager to expand my IT expertise through new training opportunities in the IT industry.
+A driven and adaptable IT professional with a strong passion for technology, committed to continuous learning and growth. Equipped with a solid academic foundation and hands-on problem-solving experience, I bring perseverance, dedication, and a proactive attitude to every challenge. Eager to contribute my skills and knowledge to support your organization’s goals and drive innovation.
 
 ## Working Experience
 
 | Organization                                      | Position                                      | Duration                 |
 |--------------------------------------------------|-----------------------------------------------|--------------------------|
+| H2 Software Consulting Services Inc.         | Software Implementation Support Analyst (Full-Time)                      | September 2024 - Present |
 | National Kidney and Transplant Institute         | IT Trainee (Internship)                      | November 2023 - March 2024 |
-| NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – Present      |
+| NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – August 2023      |
 | Civic Merchandising Inc.                         | Project Based: IT Support Staff (Contract)   | June 2022 - October 2022 |
-
-### National Kidney and Transplant Institute
-
-**Duties & Responsibilities:**
-- **ASP.NET Development:** Engaged in coding using the ASP.NET framework and C# for backend development and collaborated with the programmers that mentor us to create, modify, and maintain web applications.
-- **Database Management:** Utilized SQL Management Studio to manage and maintain the database, ensuring its integrity, security, and optimizing performance.
-- **SAP Crystal Reports:** Integrated SAP Crystal Reports into developed applications to generate dynamic and customizable reports, retrieving data from the database and formatting it for printing and saving as PDFs.
-- **Learning and Skill Development:** Actively involved in learning and developing new skills in ASP.NET, C#, SQL, and other relevant technologies under the guidance of supervisors and other employees, demonstrating dedication to professional development throughout the internship.
-- **Technical Support:** Provided first-level technical support to end-users via phone, addressing software, hardware, or network-related issues.
-
-### NewCyber Computer Center
-
-**Duties & Responsibilities:**
-- **Custom PC Building:** Assembled and disassembled high-end computers optimized for gaming and multipurpose use, selecting components based on performance requirements and user preferences.
-- **Consulting Services:** Provided consultation services to clients seeking advice on upgrading specific parts of their PCs or laptops, offering recommendations based on performance needs, budget constraints, and future-proofing considerations.
-- **Preventive Maintenance and Computer Upgrades:** Diagnosed and resolved hardware and software issues on laptops and desktop computers, offering deep cleaning services and performing upgrades.
-- **Sales and Marketing:** Marketed and sold custom-built PCs and hardware parts online through social media platforms.
-- **Quality Testing:** Conducted thorough testing and quality assurance checks on assembled systems to guarantee optimal performance before delivering the final product to customers or clients.
-
-### Civic Merchandising Inc.
-
-**Duties & Responsibilities:**
-- **Preventive Maintenance:** Conducted regular preventive maintenance on software and hardware components of computers across different departments, ensuring systems were updated with the latest software patches and security updates.
-- **Hardware Maintenance and Upgrades:** Performed upgrades to desktop and laptop components to enhance system performance.
-- **End-User Support:** Provided prompt and effective support to end-users facing hardware, software, or network issues and offered guidance and assistance in utilizing IT resources efficiently.
-
 
 ## Technologies
 
