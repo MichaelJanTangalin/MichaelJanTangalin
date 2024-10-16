@@ -20,6 +20,23 @@ A driven and adaptable IT professional with a strong passion for technology, com
 | NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – August 2023      |
 | Civic Merchandising Inc.                         | Project Based: IT Support Staff (Contract)   | June 2022 - October 2022 |
 
+## Reach Me
+
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100092711776817" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+<a href="mailto: mj.tangalin2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael-jan-tangalin-86657b229/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.gg/D9kAcMK2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+</div>
+
 ## Technologies
 
 <div align="left">
@@ -46,23 +63,6 @@ A driven and adaptable IT professional with a strong passion for technology, com
 ![SAP Crystal Reports](https://img.shields.io/badge/sap%20crystal%20reports-%23107C10.svg?style=flat&logo=sap&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 
-</div>
-
-## Reach Me
-
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100092711776817" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-<a href="mailto: mj.tangalin2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/michael-jan-tangalin-86657b229/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.gg/D9kAcMK2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-</a>
 </div>
 
 ## GitHub Stats
