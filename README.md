@@ -9,6 +9,7 @@
 
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
+## About Me
 A driven and adaptable IT professional with a strong passion for technology, committed to continuous learning and growth. Equipped with a solid academic foundation and hands-on problem-solving experience, I bring perseverance, dedication, and a proactive attitude to every challenge. Eager to contribute my skills and knowledge to support your organization’s goals and drive innovation.
 
 ## Working Experience
