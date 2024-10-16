@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Hello World! 👋 I'm Michael Jan R. Tangalin </h1>
+<h1 align="center">👋 Hello World! 👋 <br/> I'm Michael Jan R. Tangalin </h1>
 
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
