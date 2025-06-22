@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ## About Me
-A driven and adaptable IT professional with a strong passion for technology, committed to continuous learning and growth. Equipped with a solid academic foundation and hands-on problem-solving experience, I bring perseverance, dedication, and a proactive attitude to every challenge. Eager to contribute my skills and knowledge to support your organization’s goals and drive innovation.
+Seeking a growth-oriented role where I can apply my expertise in application support, database management (MSSQL), and IT operations to help drive organizational success. Committed to continuous learning, with a strong interest in expanding my knowledge in DevOps and cybersecurity. Eager to contribute to a forward-thinking team while enhancing system performance, security, and operational efficiency.
 
 ## Working Experience
 
