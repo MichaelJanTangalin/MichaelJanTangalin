@@ -12,13 +12,13 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ## About Me
-Seeking a growth-oriented role where I can apply my expertise in application support, database management (MSSQL), and IT operations to help drive organizational success. Committed to continuous learning, with a strong interest in expanding my knowledge in DevOps and cybersecurity. Eager to contribute to a forward-thinking team while enhancing system performance, security, and operational efficiency.
+Highly motivated IT professional with a strong foundation in programming, technical support, and software implementation. Currently serving as a Software Implementation Support Analyst, specializing in database administration (MSSQL), application deployment, and end-user support to ensure efficient payroll system operations. Previous experience as an IT Specialist, Technical Support Programmer Intern, and IT Support Staff strengthened skills in system maintenance, client support, and hardware/software troubleshooting. Recognized for strong problem-solving, process optimization, and cross-team collaboration, with growing interest in cybersecurity, DevOps, and system performance optimization.
 
 ## Working Experience
 
 | Organization                                      | Position                                      | Duration                 |
 |--------------------------------------------------|-----------------------------------------------|--------------------------|
-| H2 Software Consulting Services Inc.         | Software Implementation Support Analyst (Full-Time)                      | September 2024 - Present |
+| H2 Software Consulting Services Inc.         | Implementation Support Analyst (Full-Time)                      | September 2024 - Present |
 | National Kidney and Transplant Institute         | Programmer & Technical Support Staff (Internship)                      | November 2023 - March 2024 |
 | NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – August 2023      |
 | Civic Merchandising Inc.                         | Project Based: IT Support Staff (Contract)   | June 2022 - October 2022 |
