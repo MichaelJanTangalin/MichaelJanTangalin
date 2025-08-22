@@ -19,7 +19,7 @@ A Highly motivated IT professional with a strong foundation in programming, tech
 | Organization                                      | Position                                      | Duration                 |
 |--------------------------------------------------|-----------------------------------------------|--------------------------|
 | H2 Software Consulting Services Inc.         | Implementation Support Analyst (Full-Time)                      | September 2024 - Present |
-| National Kidney and Transplant Institute         | Programmer & Technical Support Staff (Internship)                      | November 2023 - March 2024 |
+| National Kidney and Transplant Institute         | IT Technical Support Programmer (Internship)                      | November 2023 - March 2024 |
 | NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – August 2023      |
 | Civic Merchandising Inc.                         | Project Based: IT Support Staff (Contract)   | June 2022 - October 2022 |
 
