@@ -23,20 +23,6 @@ A Highly motivated IT professional with a strong foundation in programming, tech
 | NewCyber Computer Center                         | IT Support Specialist (Part-Time)            | June 2023 – August 2023      |
 | Civic Merchandising Inc.                         | Project Based: IT Support Staff (Contract)   | June 2022 - October 2022 |
 
-## Reach Me
-
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100092711776817" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/michael-jan-tangalin-86657b229/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.gg/D9kAcMK2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-</a>
-</div>
-
 ## Technologies
 
 <div align="left">
