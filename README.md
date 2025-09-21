@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ## About Me
-A Highly motivated IT professional with a strong foundation in programming, technical support, and software implementation. Currently serving as a Software Implementation Support Analyst, specializing in database administration (MSSQL), application deployment, and end-user support to ensure efficient payroll system operations. Previous experience as an IT Specialist, Technical Support Programmer Intern, and IT Support Staff strengthened skills in system maintenance, client support, and hardware/software troubleshooting. Recognized for strong problem-solving, process optimization, and cross-team collaboration, with growing interest in cybersecurity, DevOps, and system performance optimization.
+A Highly motivated IT Specialist and a Cybersecurity Enthusiast with a strong foundation in programming, technical support, and software implementation. Currently serving as a Implementation Support Analyst, specializing in database administration (MSSQL), application deployment, and end-user support on efficient payroll system operations. Previous experience as an IT Specialist, Technical Support Programmer Intern, and IT Support Staff strengthened skills in system maintenance, client support, and hardware/software troubleshooting. Recognized for strong problem-solving, process optimization, and cross-team collaboration, with growing interest in cybersecurity, DevOps, and system performance optimization.
 
 ## Working Experience
 
