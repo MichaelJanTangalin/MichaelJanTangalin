@@ -12,7 +12,9 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ## About Me
-Tech-driven IT Specialist and Cybersecurity Enthusiast with a solid background in programming, technical support, and implementation. Currently an Application Support Analyst specializing in MSSQL database administration, application deployment, and payroll system support. Experienced in system maintenance, incident response, and troubleshooting, with strong problem-solving and collaboration skills and growing interests in cybersecurity, DevOps, and system administration.
+I’m a tech-driven IT Specialist and Cybersecurity Enthusiast with a strong foundation in programming, technical support, and systems implementation. Currently working as an Application Support Analyst, I specialize in MSSQL database administration, application deployment, and payroll system support.
+
+My experience includes system maintenance, incident response, troubleshooting, and cross-team collaboration to ensure operational efficiency and reliability. I’m passionate about continuous learning and actively expanding my expertise in cybersecurity, DevOps, and system administration to build secure, scalable, and resilient systems.
 
 ## Working Experience
 
@@ -51,21 +53,6 @@ Tech-driven IT Specialist and Cybersecurity Enthusiast with a solid background i
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelJanTangalin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelJanTangalin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJanTangalin&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
-
-## GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeljantangalin&theme=dracula" alt="michaeljantangalin" />
-</a>
-
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeljantangalin&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljantangalin" /> </p>
 
 
 
